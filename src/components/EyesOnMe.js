@@ -2,7 +2,11 @@
 import React from "react";
 
 function EyesOnMe() {
-  return <div>EyesOnMe</div>;
+  return (
+    <div>
+      <button>Eyes on me</button>
+    </div>
+  );
 }
 
 export default EyesOnMe;
